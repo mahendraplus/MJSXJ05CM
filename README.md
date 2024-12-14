@@ -4,9 +4,8 @@
 
 Model No: **MJSXJ05CM**  
 
+## Problem
 After a firmware update recommended by the Mi Home application, the camera stopped working. The light remains constantly orange, and the device shows no response. Attempts at TF recovery following YouTube guides were unsuccessful.
-
----
 
 ## Solution
 
@@ -26,8 +25,6 @@ Find the recovery files and instructions in the following GitHub repository:
 ---
 
 ## Camera Specifications
-
-### General Specifications
 
 - **Manufacturer**: Xiaomi  
 - **Model**: MJSXJ02CM  
